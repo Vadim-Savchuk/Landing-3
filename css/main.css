@@ -167,7 +167,7 @@ header {
           transition-delay: 0s;
 }
 .burger .mobile-menu__checkbox:checked ~ .mobile-menu__container {
-  height: 50%;
+  height: 100%;
   -webkit-transition-delay: 0s;
           transition-delay: 0s;
 }
